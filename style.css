@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(31, 4, 4);
+    color: black;
+}
+header{
+    text-align: center;
+    color: white;
+}
+input{
+    padding: 20px;
+    margin: 5px;
+    border: none;
+    background-color: white;
+    border-radius: 50%;
+}
+main{
+    margin-top: 50px;
+}
